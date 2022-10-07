@@ -1,14 +1,9 @@
-<h1 align="center">Hi <img src="https://cdn.dribbble.com/users/38834/screenshots/1964664/export-02.gif" width="40" />, I'm William's</h1>
+<h1 align="center">Hi, I'm William's <img src="https://media.tenor.com/e-LsbnNHQ5cAAAAM/catjam-cat-dancing.gif" width="40" /></h1>
 
-- 👨‍💻 A Software Engineering student from Perú
-- 🔭 I’m currently working on improving the projects I finish. 
-- 🌱 I’m currently learning how to develop web applications using angular. 
-<!--
-- 📑 *Curriculum vitae* [English](https://github.com/JulioSalazar12/JulioSalazar12/blob/dd8b7c0f21d44f397e36dbab718200c48f1dc596/CV-Julio-Salazar-english.pdf) & [Spanish](https://github.com/JulioSalazar12/JulioSalazar12/blob/dd8b7c0f21d44f397e36dbab718200c48f1dc596/CV-Julio-Salazar.pdf)
-- 🌐 Personal Web Site [julio-salazar.web.app](https://julio-salazar.web.app/)
- ##
--->
-
+- 🌎 A Software Engineering student from Peru.
+- 💻 I’m currently working on improving the projects I finish. 
+- 🧬 I’m currently learning how to develop different type of applications. 
+##
 <div align="center">
   <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -27,9 +22,6 @@
  
 <div align="center"> 
  <a href="https://www.instagram.com/wllms_07.21" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
-<!--
-<a href="https://julio-salazar.web.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
---> 
  <a href="mailto:gogal210a@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
