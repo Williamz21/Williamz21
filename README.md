@@ -3,7 +3,7 @@
 - 🌎 A Software Engineering student from Peru.
 - 💻 I’m currently working on improving the projects I finish. 
 - 🧬 I’m currently learning how to develop different type of applications.
-- My personal website: https://williamsromero-1.web.app/ 
+- 😎 My personal website: <a href="https://williamsromero-1.web.app/" target="_blank">William's Romero</a>
 ##
 <div align="center">
   <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
