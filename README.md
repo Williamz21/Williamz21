@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm William's <img src="https://media.tenor.com/e-LsbnNHQ5cAAAAM/catjam-cat-dancing.gif" width="40" /></h1>
 
-- 🌎 A Software Engineering student from Peru.
+- 🌎 A Software Engineering from Peru.
 - 💻 I’m currently working on improving the projects I finish. 
 - 🧬 I’m currently learning how to develop different type of applications.
 - 😎 My personal website: <a href="https://williamsromero-1.web.app/" target="_blank">William's Romero</a>
